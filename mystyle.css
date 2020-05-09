@@ -1,0 +1,16 @@
+.body {
+    background-color:seashell;
+    color:orangered;
+    font-family:monospace;
+    font-size:300%;
+}
+.h1 {
+    color:goldenrod;
+    text-align:center;
+}
+.select {
+    background-color:gold;
+}
+.btn {
+    background-color:orange;
+}
